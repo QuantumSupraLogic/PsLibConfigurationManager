@@ -1,3 +1,4 @@
+Set-StrictMode -Version 3.0
 
 function ConvertFrom-Xml($XML) {
     throw (New-Object System.NotImplementedException)
